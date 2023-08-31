@@ -1,0 +1,3 @@
+Our paper has looked at caring at 4 different life stages (early adulthood 16-29 years, early mid-adulthood 30-49 years, later mid-adulthood 50-64 years, and later life 65+ years) on 3 different outcomes (GHQ, MCS, PCS). The do files are organised by each outcome and life stage plus a separate document for the descriptive table. 
+
+We started with caring in early adulthood on GHQ, so most of the data cleaning & basic data preparation can be found in 'early_adulthood_GHQ'. The matching process starts from line 804 'early_adulthood_GHQ'. We then followed similar methods for other life stages and outcomes.  
